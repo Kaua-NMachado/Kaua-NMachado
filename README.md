@@ -26,14 +26,11 @@ Minha paixão é transformar dados em narrativas claras e insights que impulsion
 ### Conecte-se comigo
 
 <div>
-  <a href="mailto:kauasilveira.machad@gmail.com">
+  <a href="kauasilveira.machad@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>&nbsp;
   </a>
   <a href="https://www.instagram.com/kaua_silver05/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>&nbsp;
-  </a>
-  <a href="https://discordapp.com/users/silan1989078">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>&nbsp;
   </a>
 </div>
 
