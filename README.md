@@ -4,7 +4,9 @@ Olá! Meu nome é **Kauã Machado**. Atualmente, estou no **4º semestre de Aná
 
 Minha paixão é transformar dados em narrativas claras e insights que impulsionam **decisões estratégicas**.
 
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Formado em Análise e Desenvolvimento de Sistemas
+
+- 💻 Cursando Ciência Da Computação
   
 - 📊 Focado em Análise de Dados
 
